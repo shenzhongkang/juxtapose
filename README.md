@@ -4,6 +4,8 @@ There is a TypeScript version of JuxtaposeJS.
 
 JuxtaposeJS is a JavaScript library for making before/after image sliders.
 
+![example](https://github.com/shenzhongkang/juxtapose/blob/main/juxtapose-gif.gif?raw=true)
+
 ## Thanks
 
 JS version repository: https://github.com/NUKnightLab/juxtapose
